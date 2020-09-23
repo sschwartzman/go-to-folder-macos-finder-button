@@ -1,0 +1,4 @@
+*.md linguist-detectable=false
+*.scpt linguist-detectable=true
+*.icns linguist-detectable=false
+LICENSE linguist-detectable=false
